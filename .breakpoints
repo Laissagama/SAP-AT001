@@ -1,0 +1,26 @@
+{
+  "files": {
+    "ex002.js": [
+      {
+        "id": "fb67dd01-cebb-46df-bd23-5f0fe5174b9a",
+        "line": 3,
+        "version": 191,
+        "index": 39
+      },
+      {
+        "id": "20393760-16ba-4c8d-a0f6-e2778a18ae3b",
+        "line": 17,
+        "version": 191,
+        "index": 563
+      }
+    ],
+    "index (copy).js": [
+      {
+        "id": "3812c677-f7bd-40d6-8b94-15fbb2fb9801",
+        "line": 3,
+        "version": 1,
+        "index": 2
+      }
+    ]
+  }
+}
